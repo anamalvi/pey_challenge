@@ -1,6 +1,4 @@
 import matplotlib.pyplot as plt
-from numpy.random import normal
-from numpy import genfromtxt
 import pandas as pd
 
 df = pd.read_csv('census_data/census_train.csv')
